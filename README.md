@@ -1,4 +1,4 @@
-# Laravel Project Setup and Run Instructions
+# Project Setup and Run Instructions
 
 This repository contains a Laravel project. Follow these steps to set it up and run it locally.
 
